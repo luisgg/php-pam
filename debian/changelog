@@ -1,3 +1,9 @@
+php-pam (1.0.3-1+aurex1) precise; urgency=low
+
+  * Rebuild for aurex 12.04
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Wed, 10 Oct 2012 00:52:33 +0200
+
 php-pam (1.0.3-1) stable; urgency=low
 
   * Initial Release.
