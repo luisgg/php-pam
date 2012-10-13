@@ -1,8 +1,9 @@
-php-pam (1.0.3-1+aurex1) precise; urgency=low
+php-pam (1.0.3-1+svn249+aurex1) precise; urgency=low
 
+  * Upstream snapshot based on 'trunk' revision 249 (2012-10-13)
   * Rebuild for aurex 12.04
 
- -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Wed, 10 Oct 2012 00:52:33 +0200
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Sat, 13 Oct 2012 11:15:45 +0200
 
 php-pam (1.0.3-1) stable; urgency=low
 
